@@ -1,0 +1,27 @@
+[
+    {
+        "student_id": "S001",
+        "name": "Alice Johnson",
+        "grade": "10th Grade"
+    },
+    {
+        "student_id": "S002",
+        "name": "Bob Smith",
+        "grade": "9th Grade"
+    },
+    {
+        "student_id": "S003",
+        "name": "Carol Williams",
+        "grade": "11th Grade"
+    },
+    {
+        "student_id": "S004",
+        "name": "David Brown",
+        "grade": "10th Grade"
+    },
+    {
+        "student_id": "2401110094",
+        "name": "sritam p",
+        "grade": "o+++"
+    }
+]
